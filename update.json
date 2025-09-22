@@ -1,5 +1,5 @@
 {
   "version": "2.0",
-  "token": "ABC123XYZSSSS", 
+  "token": "ABC123XYZ", 
   "firmware_url": "https://raw.githubusercontent.com/dbagusf/esp32angkatan5/main/otajson2.ino.bin"
 }
